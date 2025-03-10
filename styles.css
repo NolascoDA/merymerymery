@@ -9,7 +9,7 @@ html {
 
 a {
     text-decoration: none;
-    color: #B74F6F;
+    color: black;
 }
 
 a:hover {
@@ -312,7 +312,7 @@ footer {
         margin-left: auto;
         margin-right: auto;
         transform: translate(-2.5rem, -3rem);
-        border-radius: 3rem;
+        border-radius: 2rem;
     }
 
     .backimg img {
@@ -330,14 +330,14 @@ footer {
         text-align: center;
         text-decoration: overline underline;
         font-size: large;
-        transform: translate(0%, -2000%);
+        transform: translate(0%, -1400%);
     }
 
     .reserva {
         text-align: center;
         color: #B74F6F;
         bottom: 0%;
-        transform: translate(0%, -1700%);
+        transform: translate(0%, -1200%);
         }
 }
 
@@ -642,7 +642,7 @@ footer {
     }
 
     .reserva {
-        font-size: 0.9rem;
+        font-size: 1rem;
         color: #B74F6F;
         text-align: center;
         margin-left: auto;
